@@ -3,7 +3,10 @@
 - 🌱 Estou sempre aprendendo
 - 🖖 Quero colaborar ao máximo de projetos que eu puder, apesar de ser iniciante 🤓
 - 🔥 2021 Objetivos: Aprender cada vez mais sobre programação e desenvolvimento Web <br>
- 
+
+#### Link do meu GitHub Gist.
+- https://gist.github.com/angnesegidios
+
 #### Estou estudando as linguagens abaixo. 
 
 <div style="display: inline_block"><br>
@@ -13,3 +16,4 @@
 </div> 
  <br>
 <img align="left" alt="angnesegidios GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=angnesegidios&show_icons=true&hide_border=true" />
+
